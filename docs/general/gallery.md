@@ -179,6 +179,13 @@ NEFTME is a decentralized social NFT-powered network that allows anyone, anywher
 - [Website](https://neftme.com)
 - [GitHub](https://github.com/NEFTME)
 
+### Trustified
+
+Trustified is a no-code platform designed to issue tamper-proof, universally verifiable, and perpetual certificates on major EVM-compatible blockchains.
+
+- [Website](https://www.trustified.xyz/)
+- [GitHub](https://github.com/CodeCrunch-Techlabs/trustified-v4)
+
 ---
 
 ## Decentralized Impact Incubator Winners
@@ -329,3 +336,5 @@ inTheory is a DeSci funding platform that allows crypto users to fund, support, 
 
 - [Website](https://intheory.impact-finance.io/)
 - [GitHub](https://github.com/Impact-Finance/intheory-mobile-nft-mint-celo)
+
+
